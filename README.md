@@ -7,3 +7,8 @@ iOS
 2. Media: Core Audio, JPEG, PNG, TIFF, OpenAL, PDF, Audio Mixing, Quartz(2D), Audio Recording, Core Animation, Video Playback, OpenGL ES
 3. Core Services: Collections, Core Location, Address Book, Net Services, Networking, Threading, FileAccess, Preferences, SQLite, URL Utilities
 4. Cosre OS: OSX Kernel, Power Management, Mach 3.0, Keychain Access, BSD, Certificates, Sockets, File System, Security, Bonfour
+
+1. didSet: 값변경 감지후 해당 값을 이용해 다른 값을 조작할때
+OutletCollections: 같은 타입의 Object들을 사용할때(배열에 담아 해당 인덱스로 조작)
+naming: 영어읽듯이 내부/외부 명 지정
+colorLiteral: 색깔을 지정할때 코드에서 알아보기 쉽게 사용
