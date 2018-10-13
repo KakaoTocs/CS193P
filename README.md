@@ -12,3 +12,10 @@ iOS
 OutletCollections: 같은 타입의 Object들을 사용할때(배열에 담아 해당 인덱스로 조작)
 naming: 영어읽듯이 내부/외부 명 지정
 colorLiteral: 색깔을 지정할때 코드에서 알아보기 쉽게 사용
+
+2. MVC: 의미, 적용 방법
+Optional: 사용하는 경우
+Static 변수: 사용하는 경우
+Struct/Class: 차이점, 사용하는 경우, 생성자
+indices: 배열 인덱스의 시퀀스
+Model: 설계 방법
