@@ -19,3 +19,9 @@ Static 변수: 사용하는 경우
 Struct/Class: 차이점, 사용하는 경우, 생성자
 indices: 배열 인덱스의 시퀀스
 Model: 설계 방법
+
+3. Computed Property: 연산 프로퍼티를 사용하면 좋은 상황
+AccessControl: 접근제어 설정 상황
+Extension: 진짜 올바른 사용 예시
+Enum, Optional: 옵셔널내부가 Enum으로 이루어져있고, 값을 가져올때 내부 처리 방식(switch, chaning->순서로 인한 장점)
+StackView: Use standard value
